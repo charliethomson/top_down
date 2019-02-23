@@ -24,7 +24,7 @@ class Vector2D:
         return (self.x < other.x) and (self.y < other.y)
 
     def __gt__(self, other):
-        return self.x > other.x) and (self.y > other.y)
+        return (self.x > other.x) and (self.y > other.y)
 
     def __le__(self, other):
         return self < other or self == other
