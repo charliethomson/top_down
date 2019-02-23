@@ -1,0 +1,3 @@
+# top_down
+
+_So I wrote this in nov 2018, I wrote more than is here but it ended up deleted. I had a really cool key binding system working, I was real proud of it, but I didn't like the code it was with (this code). I have elaborated on the bindings stuff in another project I have yet to put on github. When I make the repo and push it, I'll link to it here. I saw [this video](https://www.youtube.com/watch?v=LrEvoKI07Ww) and got inspired by [this one](https://youtu.be/LrEvoKI07Ww?t=453) and was trying to make it myself when I got sidetracked by the controls idea. Anyways, this is abandoned, adios._
